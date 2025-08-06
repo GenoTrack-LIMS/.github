@@ -42,8 +42,8 @@ Ce projet est divisé en deux repositories principaux, chacun avec sa propre sta
 
 | Domaine       | Technologie                                                                           |
 |---------------|---------------------------------------------------------------------------------------|
-| ⚙️ **Back-End**  | **Java 17+**, **Spring Boot**, **Spring Security (JWT)**, **JPA/Hibernate**, **PostgreSQL** |
-| 🎨 **Front-End** | **Angular**, **TypeScript**, **SCSS**, **RxJS**, **Responsive Design**                     |
+| ⚙️ **Back-End**  | **Java 21**, **Spring Boot**, **Spring Security (JWT)**, **JPA/Hibernate**, **PostgreSQL 17** |
+| 🎨 **Front-End** | **Angular 19**, **TypeScript**, **SCSS**, **RxJS**, **Responsive Design**                     |
 
 ## 📂 Repositories du Projet
 
@@ -72,7 +72,7 @@ Pour lancer le projet sur votre machine :
 ---
 
 <p align="center">
-  Développé par <strong>[Votre Nom]</strong>
+  Développé par <strong>Romeo Djoman</strong>
   <br />
   <a href="URL_VERS_VOTRE_LINKEDIN">LinkedIn</a> • <a href="URL_VERS_VOTRE_PORTFOLIO">Portfolio</a>
 </p>
