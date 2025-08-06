@@ -1,6 +1,6 @@
 <!-- Vous pouvez créer une bannière simple sur Canva (1280x400px) et la téléverser dans ce repository -->
 <p align="center">
-  <img src="URL_DE_VOTRE_BANNER.png" alt="GenoTrack-LIMS Banner"/>
+    <img width="1920" height="384" alt="Bannière Reddit Illustrative Minimale Violet et Rose" src="https://github.com/user-attachments/assets/6dbbe7a5-2dfd-4411-a2c1-58782597c2fb" />
 </p>
 
 <h1 align="center">GenoTrack-LIMS</h1>
