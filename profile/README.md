@@ -55,7 +55,7 @@ Découvrez le code source détaillé dans les repositories dédiés :
 
 | Repository                                                                 | Description                                                     |
 |----------------------------------------------------------------------------|-----------------------------------------------------------------|
-| ➡️ **[genotrack-lims-api](./genotrack-lims-api)**                             | Le serveur back-end RESTful qui gère toute la logique métier.  |
+| ➡️ **[genotrack-lims-api]([./genotrack-lims-api](https://github.com/GenoTrack-LIMS))**                             | Le serveur back-end RESTful qui gère toute la logique métier.  |
 | ➡️ **[genotrack-lims-client](./genotrack-lims-client)**                       | L'application cliente Angular qui fournit l'interface utilisateur. |
 
 ## 🚀 Démarrage Rapide (Local)
