@@ -24,9 +24,13 @@
 
 ## 🎯 Objectif du Projet
 
-GenoTrack-LIMS a été conçu pour répondre aux besoins critiques des laboratoires de biologie moléculaire : **la traçabilité parfaite et l'intégrité des données**. De la réception d'un échantillon brut à la génération de ses dérivés (extraits d'ADN, produits de PCR), chaque étape est suivie et enregistrée, dans le respect des Bonnes Pratiques de Laboratoire (BPL).
+J'ai conçu GenoTrack-LIMS en pensant aux besoins critiques des laboratoires de biologie moléculaire : **la traçabilité parfaite et l'intégrité des données**. De la réception d'un échantillon brut à la génération de ses dérivés (extraits d'ADN, produits de PCR), chaque étape est suivie et enregistrée, dans le respect des Bonnes Pratiques de Laboratoire (BPL).
 
-Ce projet démontre la construction d'une application web complète, robuste et sécurisée, avec une architecture découplée entre le front-end et le back-end.
+Ce projet (bien que ce soit quelques fonctionalités) démontre la construction d'une application web complète, robuste et sécurisée, avec une architecture découplée entre le front-end et le back-end.
+
+<img width="1917" height="908" alt="02" src="https://github.com/user-attachments/assets/523e517a-558a-4157-a4e1-f4680f737055" />
+
+
 
 ## ✨ Fonctionnalités Clés
 
@@ -70,6 +74,23 @@ Pour lancer le projet sur votre machine :
     *   Ouvrez votre navigateur sur `http://localhost:4200`.
 
 ---
+### [Interface] Page de Connexion
+<img width="1902" height="905" alt="01" src="https://github.com/user-attachments/assets/f5b2e13a-3eb1-47be-9cc2-21d68092a2b4" />
+
+### [Interface] Page de Visualisation de Plaques 
+<img width="1916" height="907" alt="03" src="https://github.com/user-attachments/assets/6829fa79-7a4d-4c15-8fb1-d134222f6c70" />
+
+### [Interface] Page Détails Echantillons 
+<img width="1917" height="908" alt="02" src="https://github.com/user-attachments/assets/2c60a554-70c1-4588-913e-0df49eb50099" />
+
+### [Interface] Base de données PostgresSQL 
+<img width="1918" height="1033" alt="04" src="https://github.com/user-attachments/assets/1cda2bbe-caac-4745-858e-32d3126b0cd3" />
+
+### [Backend] Controller Spring
+<img width="1389" height="849" alt="codeimage-snippet_23 (1)" src="https://github.com/user-attachments/assets/05d10562-6c40-4414-a361-c1c2b0279be8" />
+
+### [Backend] SecurityConfig (chaine de sécurité)
+<img width="1389" height="1297" alt="codeimage-snippet_23 (2)" src="https://github.com/user-attachments/assets/b5a055eb-3119-475f-ab76-a99c4fe7228b" />
 
 <p align="center">
   Développé par <strong>Romeo Djoman</strong>
